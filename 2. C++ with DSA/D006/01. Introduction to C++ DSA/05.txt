@@ -1,0 +1,14 @@
+Brain Teaser
+
+1 Big HourGlass takes 7 min to fill up.
+and other one small HourGlass fill up within 4mins.//SandClocks
+figure it out how they complete 9min around?
+
+4mins- Big(3mins later)   / small(filled up)
+                                           revise
+7mins- Big(filled up)     /small(1min later)
+              revise
+8mins- Big(1min up)     /small(filled up)
+              revise
+9mins- Big(filled up)      /small(filled up)                                                                      
+                  0                       0                        ended.
