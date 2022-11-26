@@ -1,0 +1,21 @@
+// Data Types and Type Modifiers
+
+int-> size:4bytes
+float-> size:4bytes [upto 7 decimal digits]
+double-> size:8bytes [then upto 15 decimal digits]
+char-> 1byte
+
+ASCII Table
+65-90 -> A-Z
+97-122-> a-z 
+
+int ascii='a';
+ascii->97
+
+boolean size:1byte 
+
+Type Modifiers:-
+signed-> 4 bytes-> -2,147,483,648 to 2,147,483,648
+unsigned-> 4 bytes-> size increases 
+long-> 8 bytes-> increases X2
+short-> 2 bytes-> size decreases
