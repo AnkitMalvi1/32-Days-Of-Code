@@ -1,0 +1,10 @@
+//VS Code Installation Guide//
+
+And we can also use "CMD" to run as-
+
+to compile-
+g++ demo.cpp -o run
+
+to run-
+run
+ 
