@@ -1,0 +1,12 @@
+// Layout VS Code //
+
+[   main.c   ]  [  input.txt  ]
+                     [ output.txt ]
+
+in main.c [in main() function] :-
+#ifndef ONLINE_JUDGE
+       freopen("input.txt","r",stdin);
+       freopen("output.txt","w",stdout);
+#endif
+
+//
