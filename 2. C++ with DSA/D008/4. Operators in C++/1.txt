@@ -1,0 +1,25 @@
+1. Arithmetic Operators:-
+    i. Binary operator: +,-,*,/,%
+    ii. Unary operator: ++(incrementer), --(decrementer)
+
+2. Relational Operators:- ==,!=,<,>,<=,>=
+
+3. Logical Operators:- &&, ||, !
+
+4. Bitwise Operators:-
+    & And operator
+    | or operator
+    ^ xor operator
+    ~ ones complement
+    << left shift operator
+    >> right shift operator
+
+5. Assignment Operators:- =,+=,-=,*=,/=
+
+6. Miscelleneous Operators:-
+    sizeof()
+    condition ? X : Y
+    cast
+    comma (,)
+    &
+    *
