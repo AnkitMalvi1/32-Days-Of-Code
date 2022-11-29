@@ -1,0 +1,14 @@
+//Decimal to binary//
+
+(N/10) -> (N%10)
+
+//Decimal to binary//
+
+(N/2) -> (N%2)
+
+//Binary to decimal//
+
+1    0    1   1   0   1
+Power of 2
+5    4    3   2   1   0
+=(45)10
