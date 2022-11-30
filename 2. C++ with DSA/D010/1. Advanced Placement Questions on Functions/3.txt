@@ -1,0 +1,33 @@
+//Octal to decimal
+
+(137)8= ?
+2 1 0 of 8(power)
+
+8^2 x 1 + 8^1 x 3 + 8^0 x 7
+= (95)10
+
+//Hexadecimal to decimal
+
+(1CF)16= ?
+2 1 0 of 16(power)
+
+16^2 x 1 + 16^1 x 12 + 16^0 x 15
+= (463)10
+
+//Decimal to octal
+(100)10 = ( )8 ?
+
+-8^2 x 1 =64 
+8^1 x 4 =32
+8^0 x 4 =04 = (100)10
+ so,  (144)8
+
+//Decimal to hexadecimal 
+(100)10 = ( )16 ? 
+
+LCM of 100 by 16.
+=(64)16
+
+16^1 x 6 =96
+16^0 x 4 =04 = (100)10
+so, (64)16
