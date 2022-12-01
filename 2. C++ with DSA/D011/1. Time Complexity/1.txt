@@ -1,0 +1,22 @@
+//Time Complexity//
+
+for(...)
+{
+    //body
+}
+
+=> Linear -> n
+
+for(...)
+{
+    for(...)
+    {
+        //body
+    }
+}
+
+=> Quadratic -> n*n / n^2
+
+Worst Case [ O (big oh) Notation ]
+Best Case [ Ω (big omega) Notation ]
+Average Case [ Θ (big theta) Notation ]
