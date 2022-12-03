@@ -1,0 +1,4 @@
+//  Sorting :-
+// 1. Selection Sort -
+
+Find the minimum element in unsorted array and swap it with element at begining
