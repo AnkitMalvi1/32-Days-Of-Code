@@ -1,0 +1,7 @@
+//  Sorting :-
+// 2. Bubble Sort -
+
+Repeatedly swap two adjacent elements if they are in wrong order
+
+n-1 iterations before we get our sorted array
+ith iteration = n-i 
