@@ -1,0 +1,19 @@
+// Brain Teaser:-
+
+" Fastest 3 Horses"
+
+u have 25 horses so..? race only in between 5.
+minimum races for fastest 3 ?
+
+5 x 5 = 25 (5 races)
+a1,b1,c1,d1,e1 (6th race)
+
+fastest horse: a1
+2nd fastest horse: b1,a2
+3rd fastest horse: b2,a3,c1 or (b1,a2)
+
+7th race: a2 a3 b1 b2 c1
+winner: 2nd fastest
+runner-up: 3rd fastest
+
+total races: 7.
