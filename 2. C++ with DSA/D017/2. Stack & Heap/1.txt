@@ -1,0 +1,3 @@
+Heap (Free Store)  [Manually Memory Allocation]
+Stack  [Automatically] 
+
