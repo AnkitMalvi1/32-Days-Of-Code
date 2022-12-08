@@ -1,0 +1,13 @@
+Q1. Write a program to check if a given number is power of 2
+                       _ _
+ if     n=6= (0110)2
+ & n-1=5= (0101)2
+here we can find bits of (n-1) with the help of n:-
+ for this, we see right-most 1 of n, so we need only flips from right-most 1 to all right 0
+ one more example:-
+ n=8=(1000)2
+n-1=7=(0111)2
+
+From Question perspective, if we do:-     n & (n-1)   'And' Operation on n & n-1 and then if we get 0000 so, it'll be also a "[ Power of 2 ]"  
+for example n=7, n-1=6 and "&" Operation:- then we get "0100" so, 7 is not power of 2
+instead of this, 2, 4 and 8 have an answer of 'and' operation is:-  "0000"
