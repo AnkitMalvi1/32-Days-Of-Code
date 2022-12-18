@@ -1,0 +1,56 @@
+Inheritance:-
+
+  O 
+--> O
+--> O
+--> O
+
+Inheritance-->
+1) Base Class (Parent)
+2) Derived Class (Child)
+
+Types of Inheritance:-
+[SM2H2]
+1.Single Inheritance
+2.Multiple Inheritance
+3.Multi-level Inheritance
+4.Hybrid Inheritance
+5.Hierarchical Inheritance
+
+1.Single Inheritance:-
+
+Class A
+^
+Class B 
+
+2.Multiple Inheritance:-
+
+Class A    Class B 
+         ^
+      Class C 
+
+3.Multi-level Inheritance:-
+
+Class A
+^
+Class B 
+^
+Class C 
+
+4.Hybrid Inheritance:-
+
+Class A
+^
+Class B   Class C 
+        ^
+      Class D 
+
+5.Hierarchical Inheritance:-
+
+     Class A
+       ^
+Class B  Class C    
+    ^       ^
+ D   E    F   G 
+
+//Note:- Term 'protected:' is used in case of Inheritance or Derived Class.
