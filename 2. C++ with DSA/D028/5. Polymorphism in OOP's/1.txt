@@ -1,0 +1,19 @@
+POLYMORPHISM
+
+POLY-MORPHISM
+^      ^
+Many  Forms
+
+Real Life Example:
+Rahul has various Hobbies:
+like- can dance,sing,swim,code
+
+Types of Polymorphism:-
+
+          Polymorphism
+        /              \
+  Compile Time         Run Time
+  /                          |
+1.Function-Overloading      Virtual Functions
+2.Operator-Overloading  
+
