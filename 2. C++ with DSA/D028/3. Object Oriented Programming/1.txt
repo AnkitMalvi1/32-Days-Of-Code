@@ -1,0 +1,38 @@
+Class --> UserDefined Data-type
+
+Note:- Braces { } end with ;
+
+class student{
+    string name;
+    int age;
+    bool gender;
+};
+-->
+student a;
+a.name='Ginv';
+a.age=18;
+a.gender=0;
+
+Note:- By default, these attributes are Private.
+
+Constructor:-
+
+Constructor already calls by default, of the class
+
+class stuent{
+
+    student(string s){
+        name=s;
+    }
+
+};
+
+Shallow Copy:- Only Uses or copy the attributes or some values
+Deep Copy:- Uses or copy the attributes or some values with their Addresses also.
+
+Destructor:-
+
+~student(){
+    cout<<"Destructor called";
+    // automatically call when the destroy that object
+}
