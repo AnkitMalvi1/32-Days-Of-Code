@@ -1,0 +1,27 @@
+Recurrence Relation:-
+
+A Recurrence Relation is an equation that recursively defines a sequence.
+example:-
+F(n)=F(n-1)+F(n-2)
+
+Master Theorem:-
+Gives the Time Complexity for Recurrence Relation:-
+T(n)=aT(n/b)+F(n)
+
+For the Recurrence: T(n)=aT(n/b)+theta(n),a>=1,b>1
+
+3 Cases:
+
+1. If F(n)=theta(n) where c < Loga then T(n)=theta(n^loga)
+2. If F(n)=theta(n) where c = Loga then T(n)=theta(n logn)
+3. If F(n)=theta(n) where c > Loga then T(n)=theta(F(n))
+
+Problems:
+
+1. T(n)= 2 T(n/2) + theta(n)
+   T(n)= a T(n/b) + theta(n)
+
+   a=2,b=2,c=1
+   -> c=Loga
+
+   Time Complexity: theta(n logn)
