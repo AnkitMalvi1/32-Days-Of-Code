@@ -1,0 +1,12 @@
+STACK DATA STRUCTURE
+
+Stores a list of items in which an item can be added to or removed from the list only at one end
+
+LIFO: Last in First Out
+
+Operations:
+push(x) : Push the element in the top/last one.
+pop()   : pop out the last one.
+top()   : get the top-most element.
+empty() : Checks if Empty or not.
+
