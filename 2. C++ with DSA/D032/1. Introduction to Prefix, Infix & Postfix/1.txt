@@ -1,0 +1,55 @@
+1. Infix Expression:
+
+two Operands with one Binary Operator:
+<Operand><Operator><Operand>
+
+2+3
+a*c+d
+(8/2)-5
+
+BODMAS
+
+Precedence:
+1.(),[],{}  
+2.^         R->L
+3.*,/       L->R
+4.+,-       L->R
+
+2. Prefix Expression:
+
+-> also called "Polish Notation"
+
+<Operator><Operand><Operand>
+4 * 2 + 3 -> Infix Notation
++ * 4 2 3 -> Prefix Notation
+
+((4 * 2) + 3)
+( *(4 2) + 3)
++( *(4 2) 3)
++ * 4 2 3
+
+5 - 6 / 3 -> Infix Notation
+- 5 / 6 3 -> Prefix Notation
+
+(5 - (6 / 3))
+-(5 /(6 3))
+- 5 / 6 3
+
+3. Postfix Expression:
+
+-> also called "Reverse Polish Notation"
+
+<Operand><Operand><Operator>
+4 * 2 + 3 -> Infix Notation
+4 2 * 3 + -> Postfix Notation
+
+((4 * 2) + 3)
+((4 2) * 3) +
+4 2 * 3 +
+
+5 - 6 / 3 -> Infix Notation
+5 6 3 / - -> Postfix Notation
+
+(5 - (6 / 3))
+(5 (6 3)/ ) -
+5 6 3 / -
