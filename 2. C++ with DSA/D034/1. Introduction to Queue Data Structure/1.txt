@@ -1,0 +1,12 @@
+QUEUE:
+
+Stores a list of items in which an item can be inserted at one end and removed from the other end only.
+FIFO
+
+Operations:
+
+enqueue(x) :   Same as push() of stack
+dequeue()  :   Same as pop() of stack
+peek()     :   Return the Value of Front Element
+empty()    :   Queue is empty or not?
+
