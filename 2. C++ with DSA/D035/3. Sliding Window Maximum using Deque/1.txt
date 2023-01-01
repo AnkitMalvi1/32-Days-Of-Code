@@ -1,0 +1,15 @@
+Deque : Double ended queue
+
+Stacks:
+1. LIFO
+2. Push and Pop from the end
++
+Queues:
+1. FIFO
+2. Insert and delete from the start
+
+
+Deque:
+1. Push and Pop from the end.
+2. Insert and delete from the start.
+3. Header File: <deque>
