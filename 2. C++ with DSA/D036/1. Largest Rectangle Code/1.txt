@@ -1,0 +1,12 @@
+LARGEST RECTANGLE IN A HISTOGRAM :
+
+Histogram : It's like a type of Bar Graph
+
+Problem:
+Given an array. Each element represents the height to the histogram's bar and the width of each bar is 1,
+find the area of largest rectangle in the histogram.
+
+Input:
+Array: [2,1,5,6,2,3]
+
+Area : 5 * 2 = 10
