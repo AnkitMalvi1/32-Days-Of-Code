@@ -1,0 +1,15 @@
+REDUNDANT PARENTHESIS :
+
+Given a valid mathematical expression, find whether it've redundant parenthesis or not.
+It contain the following operators '+','-','*','/'.
+
+Examples:
+
+Input 1: A = "((a+b))"
+Output 1: 1
+((a+b)) has redundant braces so answer will be 1.
+
+Input 2: A = "(a+(a+b))"
+Output 2: 0
+(a+(a+b)) doesn't have any redundant braces so answer will be 0.
+
